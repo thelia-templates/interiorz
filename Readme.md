@@ -23,6 +23,6 @@ You have 2 choices for installing this template :
 
 ## Screenshots
 
-![Interiorz home](assets/src/screenshots/home.jpg)
+![Interiorz home](assets/screenshots/home.png)
 
-![Interiorz product](assets/src/screenshots/product.jpg)
+![Interiorz product](assets/screenshots/product.png)
